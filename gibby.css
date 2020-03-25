@@ -1,0 +1,17 @@
+.mustard{
+	font: 74px times new roman;
+	color: purple;
+	mark: yellow;
+
+}
+
+.toothbrush{
+	font: 30px cursive;
+	color: green;
+
+}
+
+body {
+	background-image: url("download.jpg");
+
+}
